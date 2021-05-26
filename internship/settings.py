@@ -122,7 +122,9 @@ USE_TZ = True
 
 
 
-
+STATICFILES_DIRS = [
+    os.path.join(BASE_DIR, 'internship/static'),
+]
 
 
 # Static files (CSS, JavaScript, Images)
