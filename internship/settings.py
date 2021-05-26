@@ -27,7 +27,7 @@ SECRET_KEY = 'zu6b)=3wk!qf_jq*(@7(-d%1$*2v#k@8$d2!rvg)2mql)7117s'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['127.0.0.1',]
+ALLOWED_HOSTS = ['127.0.0.1','temphumdashboard.herokuapp.com']
 
 
 # Application definition
