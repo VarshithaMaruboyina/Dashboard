@@ -64,5 +64,3 @@ def logoutfunction(request):
 	except KeyError:
 		pass
 
-
-# Create your views her
